@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2B2B&background=7B2FB100&width=435&lines=Hi%2C+my+name+is+Sezimar+Junior;I%C2%B4m+a+Fullstack+Developer)](https://git.io/typing-svg)
+
+
 <div  align="center" style="margin-bottom:100px">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sezimarjr&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
  </div>
@@ -34,7 +37,9 @@
 
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
+&nbsp;
 ## Contacts:
 
 <div> 
