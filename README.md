@@ -47,11 +47,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
+
 ## Contacts:
 
-<div> 
+<div style="margin-top:100px"> 
 <a href="https://www.instagram.com/sezimarjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/sezimar-junior-4188b8189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
