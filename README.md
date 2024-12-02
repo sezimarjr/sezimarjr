@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2B2B&background=7B2FB100&width=435&lines=Hi%2C+my+name+is+Sezimar+Junior;I%C2%B4m+a+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA12B&background=7B2FB100&width=435&lines=Hi%2C+my+name+is+Sezimar+Junior;I%C2%B4m+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 
 <div  align="center" style="margin-bottom:100px">
