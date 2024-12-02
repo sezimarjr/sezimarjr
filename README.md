@@ -1,5 +1,5 @@
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=sezimarjr&theme=shades-of-purple&hide_border=true&locale=pt_BR&mode=weekly"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sezimarjr&theme=shades-of-purple&hide_border=true&locale=pt_BR&mode=weekly"/>
  </div>
  
  &nbsp;
