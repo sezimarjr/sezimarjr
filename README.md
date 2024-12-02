@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<div align="center" style="margin-bottom:50px">
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
+
+<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
+<div align="center" style="margin-bottom:100px">
+
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA12B&background=7B2FB100&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Sezimar+Junior;I%C2%B4m+a+Fullstack+Developer" alt="Typing SVG" /></a>
 </div>
 
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sezimarjr&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
  </div>
  &nbsp;
