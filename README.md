@@ -1,6 +1,8 @@
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=sezimarjr&theme=shades-of-purple&hide_border=true&locale=pt_BR&mode=weekly"/>
- </div>
+<div align="center">
+    <h2>📊 My Stats</h2>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sezimarjr&show_icons=true&include_all_commits=false&count_private=true&theme=great-gatsby" height="160em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sezimarjr&layout=compact&langs_count=10&theme=great-gatsby&count_private=false&include_all_commits=false&hide=html,css,less,scss" height="160em" />
+</div>
  
  &nbsp;
  &nbsp;
